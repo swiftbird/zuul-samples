@@ -1,0 +1,6 @@
+applications:
+- name: houdini-config-server
+  memory: 1024M
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
+  instances: 1
+  path: build/libs/configserver-1.0.0-SNAPSHOT.jar
