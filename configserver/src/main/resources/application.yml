@@ -19,7 +19,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.homedepot.com/Back-Office-And-In-Aisle-Systems/houdini-config
-          username: jdw27b1
-          password: d80d52624b150080f6f8fe4f88ff669eb274e406
+          uri: https://github.com/MYCONFIG-config
+          username: 
+          password: 
 
